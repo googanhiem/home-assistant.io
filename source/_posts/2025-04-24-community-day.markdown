@@ -13,7 +13,7 @@ og_image: /images/blog/2025-04-community-day/art.png
 
 Our first **Home Assistant Community Day** will be on **May 24th** this year 🎉, and with a month to go, here is all the information you need to take part.
 
-The community will be leading meetups across the globe, so find your nearest event and **[register now](https://lu.ma/haday2025)**! They're all free and will be full of smart people with smart homes. If you don't see your city on this list, we're encouraging the community to host their own meetups, so keep reading to learn more.
+The community will be leading meetups across the globe, so find your nearest event and **[register now](https://lu.ma/haday2025)**! They're all free and will be full of smart people with smart homes. If you don't see your city on this list, we're encouraging the community to [host their own meetups](/blog/2025/04/24/community-day/#host-your-own), so keep reading to learn more.
 
 ## Our biggest party yet
 
@@ -23,7 +23,7 @@ I'm sure you're all wondering, "*Missy, what is a Community Day?*". In its simpl
 
 ### Locations and registering to attend
 
-We have organized our own events which are hosted by those who work at Home Assistant 😎! To coordinate these, we are using Luma, a site focused on tech meetups. All the current events can be found below or on our [Home Assistant Community Day](https://lu.ma/haday2025) calendar.
+**15 events** are set to have full-time Home Assistant team members in attendance 😎! To coordinate all these meetups, we are using Luma, a site focused on tech meetups. All the current events can be found below or on our [Home Assistant Community Day](https://lu.ma/haday2025) calendar.
 
 <iframe
   data-src="https://lu.ma/embed/calendar/cal-QXZXEJrvB3UaI63/events?lt=light"
@@ -35,23 +35,6 @@ We have organized our own events which are hosted by those who work at Home Assi
   aria-hidden="false"
   tabindex="0"
 ></iframe>
-
-**Europe**
-- [Aveiro, Portugal](https://lu.ma/p9eo4v3t)
-- [Bordeaux, France](https://lu.ma/shxhyi6u)
-- [London, United Kingdom](https://lu.ma/fa5ez3t7)
-- [Madrid, Spain](https://lu.ma/o6pqbjv8)
-- [Porto, Portugal](https://lu.ma/uozbfr6n)
-- [Prague, Czech Republic](https://lu.ma/dhudha0z)
-- [Utrecht, Netherlands](https://lu.ma/e2wyv8k0)
-- [Vienna, Austria](https://lu.ma/2vjs7dab)
-
-**North America**
-- [Brooklyn, New York](https://lu.ma/efkt35on)
-- [Charlotte, North Carolina](https://lu.ma/3kbb2dte)
-- [Houston, Texas](https://lu.ma/g5o66to2)
-- [Redmond, Washington](https://lu.ma/qb0hhhkm)
-- [Twin Cities, Minnesota](https://lu.ma/ljwdnjmc)
 
 All Community Day events are free, so **[register before spaces run out!](https://lu.ma/haday2025)** (No worries, there are waitlists!)
 
